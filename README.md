@@ -1,0 +1,1 @@
+This plugin removes the trending box from Facebook.
